@@ -5,6 +5,10 @@
 
 [Ctarron discord](https://discord.gg/Ur6SKQ3qjV) server for feedback/doubts.
 
+Also on [Planet Minecraft](https://www.planetminecraft.com/project/anaglyph/)
+
+Also on [Minecraft Maps](https://www.minecraftmaps.com/51032-anaglyph)
+
 ## Overview
 
 Delve into the deep, two-colored ruins to uncover Minecraft’s most legendary artifact!
