@@ -1,0 +1,31 @@
+{
+	"textures": {
+		"2": "#sequence",
+		"3": "block/chiseled_tuff_bricks",
+		"4": "block/chiseled_tuff_bricks_top",
+		"particle": "#sequence"
+	},
+	"elements": [
+		{
+			"from": [4, 4, 4],
+			"to": [12, 12, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [4.5, 12.1, 4.5],
+			"to": [11.5, 12.1, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.5, 12.1, 5.5]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

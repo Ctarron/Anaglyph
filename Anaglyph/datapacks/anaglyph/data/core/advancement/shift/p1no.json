@@ -1,0 +1,19 @@
+{
+  "parent": "core:shift/root",
+  "criteria": {
+    "shift": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "team": "p1",
+          "flags": {
+            "is_sneaking": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "core:shift/p1no"
+  }
+}

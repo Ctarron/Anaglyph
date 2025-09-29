@@ -1,0 +1,26 @@
+{
+  "parent": "snake:movement",
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "gamemode": [
+              "spectator"
+            ],
+            "input": {
+              "forward": false,
+              "backward": false,
+              "left": true,
+              "right": false,
+              "jump": false,
+              "sneak": false
+            }
+          }
+        }
+      }
+    }
+  }
+}

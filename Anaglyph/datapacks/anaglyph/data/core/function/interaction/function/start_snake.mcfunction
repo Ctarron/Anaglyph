@@ -1,0 +1,2 @@
+execute as @s[tag=p1,tag=!respawn_snake] on target as @s[team=p1] run return run function snake:start {team:"p1"}
+execute as @s[tag=p2,tag=!respawn_snake] on target as @s[team=p2] run return run function snake:start {team:"p2"}

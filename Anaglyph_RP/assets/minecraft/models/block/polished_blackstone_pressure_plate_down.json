@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"0": "block/chiseled_tuff_bricks_top",
+		"particle": "block/chiseled_tuff_bricks_top"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 0.5, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
+			"faces": {
+				"north": {"uv": [1, 1, 15, 2], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [14, 1, 15, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [1, 14, 15, 15], "texture": "#0"},
+				"west": {"uv": [1, 1, 2, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#0"}
+			}
+		}
+	]
+}

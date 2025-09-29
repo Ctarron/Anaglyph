@@ -1,0 +1,2 @@
+execute positioned -39 295 177 if entity @p[distance=..0.71] if block ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=true] positioned -34 295 177 if entity @p[distance=..0.71] if block ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=true] run return run function room:lobby/open
+schedule function room:lobby/tick 10t

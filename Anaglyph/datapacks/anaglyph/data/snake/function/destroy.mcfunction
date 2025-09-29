@@ -1,0 +1,1 @@
+execute as @e[tag=snake,tag=used] run function snake:destroy_selected

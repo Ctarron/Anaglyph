@@ -1,0 +1,2 @@
+execute positioned -26 220 -59 if entity @p[team=p1,distance=..0.71] if block ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=true] positioned -11 220 -36 if entity @p[team=p2,distance=..0.71] if block ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=true] run return run function room:load {room:invis}
+schedule function room:sequence/tick 10t

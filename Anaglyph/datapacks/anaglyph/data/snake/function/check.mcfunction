@@ -1,0 +1,2 @@
+execute at @s positioned ^0.01 ^ ^-0.01 unless blocks ^ ^ ^1.1 ^-1 ^1 ^1.1 ^ ^ ^-1 masked as @a[tag=camera] at @s run return run function snake:exit
+execute on vehicle positioned ^ ^ ^1 align xz run tp ~ ~ ~

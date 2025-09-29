@@ -1,0 +1,1 @@
+execute as @s[tag=camera] at @s run function snake:exit

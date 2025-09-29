@@ -1,0 +1,3 @@
+execute positioned 100 220 161 if entity @p[team=p2,distance=..0.71] if block ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=true] run return run execute unless block 101 197 159 cave_air run return run function room:drop/open_p2
+execute positioned 100 135 161 if entity @p[team=p2,distance=..0.71] if block ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=true] run return run execute unless block 101 197 159 cave_air run return run function room:drop/open_p2
+execute unless block 101 197 159 red_sandstone run function room:drop/close_p2

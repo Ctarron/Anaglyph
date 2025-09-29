@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "shift": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

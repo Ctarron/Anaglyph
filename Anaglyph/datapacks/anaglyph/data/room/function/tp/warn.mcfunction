@@ -1,0 +1,1 @@
+execute as @a at @a run playsound block.trial_spawner.ominous_activate block @a ~ ~ ~ 0.5 0.9

@@ -1,0 +1,54 @@
+{
+  "music.creative":{
+    "replace": true,
+    "sounds": [
+    ]
+  },
+  "music.game":{
+    "replace": true,
+    "sounds": []
+  },
+  "music.under_water":{
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.cave": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.wither.spawn": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/wither/spawn",
+        "volume": 0.8
+      }
+      
+    ],
+    "subtitle": "ctarron.sequence.new_symbol"
+  },
+  "ambient.warped_forest.additions": {
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.warped_forest.mood": {
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.crimson_forest.additions": {
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.crimson_forest.mood": {
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.warped_forest.loop": {
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.crimson_forest.loop": {
+    "replace": true,
+    "sounds": []
+  }
+}

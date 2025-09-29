@@ -1,0 +1,2 @@
+summon interaction -33.0 221.25 -43.5 {width:0.5f,height:0.5f,Tags:["dynamic","sequence"],data:{button:"2"}}
+execute positioned -33.0 221.5 -43.5 run data merge entity @n[type=block_display,distance=..0.01] {start_interpolation:0,interpolation_duration:2,transformation:{left_rotation:[0.500f,0.500f,-0.500f,0.500f],right_rotation:[0f,0f,0f,1f],translation:[-0.5f,0.5f,0.5f],scale:[1f,1f,1f]}}

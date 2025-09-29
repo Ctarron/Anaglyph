@@ -1,0 +1,6 @@
+{
+  "parent": "ctarron:sequence/sequence_template",
+  "textures": {
+    "sequence": "ctarron:block/particles/sequence_4"
+  }
+}
