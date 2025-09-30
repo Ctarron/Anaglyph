@@ -1,0 +1,4 @@
+summon text_display -36.0 313.0 188.0 {Tags:["dynamic"],width:1.5f,text:[{"fallback":"Install the ","translate":"ctarron.setup.install"},{"fallback":"\nResource Pack","color":"blue","translate":"ctarron.setup.resourcepack","underlined":true},{"fallback":"\nChange your game language\nto either english or spanish","translate":"ctarron.setup.language"}],billboard:"center"}
+execute positioned -36.0 313.0 188.0 run kill @n[type=minecraft:text_display,distance=..0.01]
+execute positioned -36.0 312.00 188.0 as @a[predicate=core:player/sneaking,distance=..0.5] run tp ~ ~-2 ~
+schedule function room:lobby/update_rp_text 60t

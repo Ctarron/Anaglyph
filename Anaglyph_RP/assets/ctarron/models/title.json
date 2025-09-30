@@ -1,4 +1,6 @@
 {
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "ctarron:block/title",
 		"particle": "ctarron:block/title"
@@ -8,7 +10,7 @@
 			"from": [-16, 0, 0],
 			"to": [32, 10, 0],
 			"faces": {
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"south": {"uv": [0, 13.21875, 16, 16], "texture": "#0"}
 			}
 		}
 	]

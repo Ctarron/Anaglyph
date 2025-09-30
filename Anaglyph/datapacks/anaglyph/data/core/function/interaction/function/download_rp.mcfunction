@@ -1,0 +1,1 @@
+dialog show @s { "type": "minecraft:notice", "title": "Resource Pack", "body": { "type": "minecraft:plain_message", "contents": { "text": "Download link", "color": "aqua", "underlined": true, "click_event": { "action": "open_url", "url": "https://github.com/Ctarron/Anaglyph/releases/latest/download/Anaglyph_RP.zip" } } } }

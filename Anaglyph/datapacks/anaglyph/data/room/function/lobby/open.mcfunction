@@ -8,3 +8,4 @@ execute positioned -39 295 177 run team join p2 @p
 execute positioned -34 295 177 run team join p1 @p
 
 schedule function room:lobby/tick2 10t
+schedule clear room:lobby/update_rp_text

@@ -1,6 +1,7 @@
 {
    "pack": {
-      "pack_format": 64,
-      "description":[{"text":"Resource pack for Anaglyph\n"},{"text":"By Ctarron"}]
+      "description":[{"text":"Resource pack for Anaglyph\n"},{"text":"By Ctarron"}],
+    "min_format": [69, 0],
+    "max_format": [69, 0]
    }
 }

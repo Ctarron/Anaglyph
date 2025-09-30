@@ -1,7 +1,8 @@
 {
 	"pack": {
-		"pack_format": 81,
-		"description": [{"text":"Data pack for Anaglyph\n"},{"text":"By Ctarron"}]
+		"description": [{"text":"Data pack for Anaglyph\n"},{"text":"By Ctarron"}],
+    "min_format": [88, 0],
+    "max_format": [88, 0]
 	},
 	"filter": {
 	  "block": [
