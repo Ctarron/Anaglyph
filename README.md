@@ -1,19 +1,18 @@
 # Anaglyph
 
-[![Downloads](https://img.shields.io/github/downloads/Ctarron/Anaglyph/total)](https://github.com/Ctarron/Anaglyph/releases)
-[![Latest Release](https://img.shields.io/github/v/release/Ctarron/Anaglyph)](https://github.com/Ctarron/Anaglyph/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Ctarron/Anaglyph?label=version&color=green)](https://github.com/Ctarron/Anaglyph/releases/latest)
 
 [Ctarron discord](https://discord.gg/Ur6SKQ3qjV) server for feedback/doubts.
 
-Also on [Planet Minecraft](https://www.planetminecraft.com/project/anaglyph/)
-
 Also on [Minecraft Maps](https://www.minecraftmaps.com/51032-anaglyph)
+
+Also on [Planet Minecraft](https://www.planetminecraft.com/project/anaglyph/)
 
 ## Overview
 
 Delve into the deep, two-colored ruins to uncover Minecraft’s most legendary artifact!
 
-## Game Details
+## Details
 
 - **Duration**: 30-45 minute adventure
 - **Minecraft Version**: 1.21.8 (Vanilla)
@@ -21,9 +20,8 @@ Delve into the deep, two-colored ruins to uncover Minecraft’s most legendary a
 
 ## Downloads
 
-- **Latest Release**: [Download Here](https://github.com/Ctarron/Anaglyph/releases/latest)
-- **All Releases**: [View All Versions](https://github.com/Ctarron/Anaglyph/releases)
-
+[![Map](https://img.shields.io/github/downloads/Ctarron/Anaglyph/Anaglyph.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/Anaglyph/releases/latest)[![ResourcePack](https://img.shields.io/github/downloads/Ctarron/Anaglyph/Anaglyph_RP.zip?label=RP%20Downloads&color=red&style=for-the-badge)](https://github.com/Ctarron/Anaglyph/releases/latest)\
+[![MinecraftMaps](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fwww.minecraftmaps.com%2Findex.php%3Foption%3Dcom_jdownloads%26view%3Ddownload%26id%3D51032%3Aanaglyph%26catid%3D2&search=%3Cspan%20class%3D%22jd-download-stat-value%22%3E(%5B%5Cd%2C%5D%2B)%3C%5C%2Fspan%3E&replace=%241&label=Minecraft%20Maps&color=%251b8738&style=for-the-badge)](https://www.minecraftmaps.com/index.php?option=com_jdownloads&view=download&id=51032:anaglyph)
 ## Multiplayer Setup
 
 To play with multiple players:
