@@ -4,3 +4,4 @@ execute as @a at @a run playsound block.bubble_column.bubble_pop player @s ~ ~ ~
 execute as @a at @a run playsound ui.toast.challenge_complete player @s ~ ~ ~ 1 0.75
 tag @a add cleared
 function room:load {room:lobby}
+function core:thanks
