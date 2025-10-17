@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"description": [{"text":"Data pack for Anaglyph\n"},{"text":"By Ctarron"}],
+		"description": [{"text":"Data pack for Anaglyph"},{"text":" v1.0.3"},{"text":"\nBy Ctarron"}],
     "min_format": [88, 0],
     "max_format": [88, 0]
 	},
