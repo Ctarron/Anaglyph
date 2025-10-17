@@ -4,8 +4,8 @@ fill -29 222 -52 -30 220 -52 minecraft:sand
 fill -15 222 -39 -14 220 -39 minecraft:red_sand
 fill -9 223 -37 -9 220 -35 red_sand
 
-fill -28 220 -39 -26 222 -39 minecraft:air
-fill -24 220 -39 -22 222 -39 minecraft:air
+fill -28 220 -39 -26 222 -39 minecraft:air destroy
+fill -24 220 -39 -22 222 -39 minecraft:air destroy
 
 data modify storage ctarron:current rng.sequence set value {1:0,2:0,3:0,4:0,5:0}
 
