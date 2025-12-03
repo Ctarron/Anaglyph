@@ -14,7 +14,6 @@ summon text_display -32.0625 295.8125 189.0 {Tags:["dynamic"],transformation:{le
 
 summon text_display -36.0 313.0 188.0 {Tags:["dynamic"],width:1.5f,text:[{"fallback":"Install the ","translate":"ctarron.setup.install"},{"fallback":"\nResource Pack","color":"blue","translate":"ctarron.setup.resourcepack","underlined":true},{"fallback":"\nChange your game language\nto either english or spanish","translate":"ctarron.setup.language"}],billboard:"center"}
 summon interaction -36.0 313.0 188.0 {width:2f,height:2f,Tags:["dynamic","rp_link"]}
-execute unless entity @a[tag=cleared] run fill -34 295 177 -39 295 177 minecraft:polished_blackstone_pressure_plate replace minecraft:cave_air
 
 schedule function room:lobby/tick 1t
 schedule function room:lobby/update_rp_text 60t

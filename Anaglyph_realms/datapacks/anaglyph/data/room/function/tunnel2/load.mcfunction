@@ -15,8 +15,8 @@ execute positioned 100.0 127.0 317.0 run function snake:summon_p1
 execute positioned 99.0 125.0 337.0 run function snake:summon_p2
 execute positioned 105.0 123.0 359.0 run function snake:summon_p1
 
-execute positioned 94.0 125.5 364.5 run function platform:invisible/summon_p2
-execute positioned 101.5 127.375 347.0 run function platform:invisible/summon_p1
+execute positioned 99.5 125.5 364.5 run function platform:invisible/summon_p1
+execute positioned 101.5 127.375 347.0 run function platform:invisible/summon_p2
 
 advancement revoke @a from core:shift/root
 tag @a add shifting

@@ -1,0 +1,2 @@
+tellraw @a[team=p1,limit=1] {"color":"gray","fallback":"We found it...","italic":true,"translate":"ctarron.setup.comment.p1"}
+tellraw @a[team=p2,limit=1] {"color":"gray","fallback":"On the altar, finally...","italic":true,"translate":"ctarron.setup.comment.p2"}
