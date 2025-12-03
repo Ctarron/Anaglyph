@@ -1,4 +1,5 @@
 execute as @a at @s run playsound block.beacon.deactivate block @s ~ ~ ~ 0.8 1.5
+execute as @a at @s run playsound minecraft:block.note_block.didgeridoo player @a ~ ~ ~ 0.7 0.9
 
 schedule clear sequence:show/1
 schedule clear sequence:show/2
