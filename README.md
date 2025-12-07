@@ -8,6 +8,8 @@ Also on [Minecraft Maps](https://www.minecraftmaps.com/51032-anaglyph)
 
 Also on [Planet Minecraft](https://www.planetminecraft.com/project/anaglyph/)
 
+Also on [MapVerse](https://mapverse.net/map/150/anaglyph)
+
 ## Overview
 
 Delve into the deep, two-colored ruins to uncover Minecraft’s most legendary artifact!
@@ -15,7 +17,7 @@ Delve into the deep, two-colored ruins to uncover Minecraft’s most legendary a
 ## Details
 
 - **Duration**: 30-45 minute adventure
-- **Minecraft Version**: 1.21.8 (Vanilla)
+- **Minecraft Version**: 1.21.10 (Vanilla)
 - **Players**: 2 players
 
 ## Downloads
